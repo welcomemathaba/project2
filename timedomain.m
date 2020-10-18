@@ -1,6 +1,6 @@
-
+heloo
 load('C:\Users\WMathaba\Documents\plot\TxRF_In.mat')%path to file
-load('C:\Users\WMathaba\Documents\plot\TxRF_Out.mat')
+load('C:\Users\WMheathaba\Documents\plot\TxRF_Out.mat')
 load('C:\Users\WMathaba\Documents\plot\RxRF_In.mat')
 load('C:\Users\WMathaba\Documents\plot\RxRF_Out.mat')
 load('C:\Users\WMathaba\Documents\plot\NoisePower.mat')
